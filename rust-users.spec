@@ -5,8 +5,8 @@
 %global crate users
 
 Name:           rust-%{crate}
-Version:        0.9.1
-Release:        5%{?dist}
+Version:        0.11.0
+Release:        1%{?dist}
 Summary:        Library for getting information on Unix users and groups
 
 # Upstream license specification: MIT
